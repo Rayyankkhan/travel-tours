@@ -1,0 +1,19 @@
+.button-upload {
+    background-color: none;
+    border: 2px solid #8C8989;
+    border-radius: 8px;
+    padding: 10px 15px 10px 15px;
+    width: 100%;
+    /* text-align: left; */
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #858282;
+   
+
+}
+.plus-icoon {
+    margin-left: 200px;
+   color: #545454;
+}
